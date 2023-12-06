@@ -1,0 +1,5 @@
+pip install fastai
+
+win上依赖一个visual c++ 14.0
+
+https://docs.fast.ai/train.html#fit_one_cycle 
